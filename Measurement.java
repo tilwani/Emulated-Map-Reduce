@@ -1,5 +1,3 @@
-package lsda_assignment_2;
-
 public class Measurement {
 	
 	private int time;
